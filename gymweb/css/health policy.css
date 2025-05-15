@@ -1,0 +1,24 @@
+.n1{
+    text-align: center;
+    font-weight: 900;
+    text-decoration: double;
+    text-decoration: underline ;}
+    .n2{
+        text-align: center;
+    }
+    .n3
+    {
+        margin-left: 300px;
+    }
+.n4{
+    text-align: center;
+    
+}
+.all{
+    font-size: 20px;
+}
+@media screen and (max-width:800px) {
+    .n3{
+        margin-left: px;
+    }
+}
